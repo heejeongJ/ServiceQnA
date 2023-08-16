@@ -1,4 +1,4 @@
-# ServiceQnA Web
+# NoticeBoard Web
 #### Django 기반 파이썬 CRUD 게시판
 
 ## 개발 시 참고 & 주의 사항
